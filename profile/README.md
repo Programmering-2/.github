@@ -15,3 +15,7 @@ Här skrivs alla uppgifter som kopplade [repositories](https://github.com/orgs/P
 ## 1.4
 > [!NOTE]
 > Uppgift om [villkor och logik i funktioner](https://github.com/Programmering-2/logical-statements). Uppfattning om hur man kan använda if/elif/else för att fatta beslut i funktioner.
+
+## 1.5
+> [!NOTE]
+> Öva på [loopar och upprepning](https://github.com/Programmering-2/loops-repetition/tree/main). Använd for- och while-loopar för att upprepa kod på ett kontrollerat sätt.
