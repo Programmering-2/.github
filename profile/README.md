@@ -19,3 +19,11 @@ Här skrivs alla uppgifter som kopplade [repositories](https://github.com/orgs/P
 ## 1.5
 > [!NOTE]
 > Öva på [loopar och upprepning](https://github.com/Programmering-2/loops-repetition/tree/main). Använd for- och while-loopar för att upprepa kod på ett kontrollerat sätt.
+
+
+# Inlämningsuppgifter
+Här länkas alla inlämningsuppgifter. De ligger under en enskild folder 
+
+## Inlämning 1
+> [!NOTE]
+> Första [inlämningsuppgiften](https://github.com/Programmering-2/inlamning-1). Denna inlämningsuppgift handlar om att förstå `input` och hur man använder sig av funktionen.
