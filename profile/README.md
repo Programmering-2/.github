@@ -27,3 +27,7 @@ Här länkas alla inlämningsuppgifter. De ligger under en enskild folder
 ## Inlämning 1
 > [!NOTE]
 > Första [inlämningsuppgiften](https://github.com/Programmering-2/inlamning-1). Denna inlämningsuppgift handlar om att förstå `input` och hur man använder sig av funktionen.
+
+ ## Inlämning 2
+> [!NOTE]
+> Andra [inlämningsuppgiften](https://github.com/Programmering-2/inlamning-2). I denna inlämningsuppgift skapas ett program där användaren kan hantera en lista med användare.
